@@ -1,0 +1,80 @@
+
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usetheme{CambridgeUS}
+\title{RESUME}
+\author\Large{\textbf{VALLABUDASU HARSHITHA GOUD }}
+\date{6,August, 2022}
+
+\begin{document}
+
+\maketitle
+\section{frame}\textbf{Name and Address :}
+\flushleft
+\begin{itemize}\documentclass
+
+
+\item Name         :  Vallabudasu Harshitha Goud\\
+
+\item Father Name  :  Vallabudasu Thirupathaiah Goud\\ 
+
+\item Mother Name  :  Vallabudasu Jyothi\\
+
+\item Siblings     :  Vallabudasu Sravya\\
+
+\item Address      : \\
+                Village  : Akuthotapally\\
+
+                Mandal   : Amangal\\
+                
+                District : RangaReddy\\
+\end{itemize}
+\framebreak
+                
+\section{frame}\textbf{Marks :}
+\begin{table}[h]
+\begin{tabular}{|l |l |l|}
+ \hline
+ S.No & Standard & CGPA\\
+ \hline
+ 1 & 10th & 10.0\\
+ \hline
+ 2 & PUC-1 & 9.36\\
+ \hline
+ 3 & PUC-2 & 9.57\\
+ \hline
+\end{tabular}
+
+\end{table}
+\section{frame}\textbf{Extra Curricular Activities :}
+\begin{itemize}
+ \item  Classical Dancer[Perini Lasyam]
+\end{itemize}
+\framebreak
+
+\subsection{frame}\Large{\textbf{Achievements :}}
+\begin{itemize}
+ \item Scored 10 GPA in 10th Standard 
+ \item Recieved Participation Certificate in District Level Mathematics  Talent Test
+ \item Recieved Medal,Certificate and 50,000/- cash  prize from Tribal Welfare Department of Telangana State
+ \item Performed in RavindraBharathi, Hyderabad
+\end{itemize}
+ \section{frame}\textbf{Hobbies :}
+ \begin{itemize}
+   \item Drawing\\
+\item Making Craft Items\\
+ \end{itemize}
+ \framebreak
+\section{frame}\textbf{Image :}
+\begin{figure}
+\centering
+\includegraphics[width=50mm,scale=1.5]{Image.jpeg}
+ \end{figure}
+ 
+ 
+
+
+\end{document}
+
+
+\end{document}
