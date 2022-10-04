@@ -1,0 +1,76 @@
+
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+%opening
+\title{RESUME}
+\author{Vallabudasu Harshitha Goud}
+
+\begin{document}
+
+\maketitle
+\section{Name and Address :}
+\flushleft
+\begin{itemize}
+
+
+\item Name         :  Vallabudasu Harshitha Goud\\
+
+\item Father Name  :  Vallabudasu Thirupathaiah Goud\\ 
+
+\item Mother Name  :  Vallabudasu Jyothi\\
+
+\item Siblings     :  Vallabudasu Sravya\\
+
+\item Address      : \\
+                Village  : Akuthotapally\\
+
+                Mandal   : Amangal\\
+                
+                District : RangaReddy\\
+\end{itemize}
+                
+\section{Marks :}
+\begin{table}[h]
+\begin{tabular}{|l |l |l|}
+ \hline
+ S.No & Standard & CGPA\\
+ \hline
+ 1 & 10th & 10.0\\
+ \hline
+ 2 & PUC-1 & 9.36\\
+ \hline
+ 3 & PUC-2 & 9.57\\
+ \hline
+\end{tabular}
+
+\end{table}
+\section{Extra Curricular Activities :}
+\begin{itemize}
+ \item  Classical Dancer[Perini Lasyam]
+\end{itemize}
+
+
+\subsection{Achievements :}
+\begin{itemize}
+ \item Scored 10 GPA in 10th Standard 
+ \item Recieved Participation Certificate in District Level Mathematics  Talent Test
+ \item Recieved Medal,Certificate and 50,000/- cash  prize from Tribal Welfare Department of Telangana State
+ \item Performed in RavindraBharathi, Hyderabad
+\end{itemize}
+
+ \section{Hobbies :}
+ \begin{itemize}
+   \item Drawing\\
+\item Making Craft Items\\
+ \end{itemize}
+\section{Image :}
+\centering
+\includegraphics{image.jpeg}
+ 
+ 
+ 
+
+
+\end{document}
+
